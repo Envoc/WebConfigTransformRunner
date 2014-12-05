@@ -7,7 +7,6 @@ This is a commandline tool to run an ASP.Net web.config tranformation.
 
 ### More Information:
 
-* https://github.com/erichexter/WebConfigTransformRunner
 * http://lostechies.com/erichexter/2013/01/20/asp-net-web-config-transform-console-utility-released-on-nuget/
 	
 ### Documentation 
