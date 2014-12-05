@@ -10,11 +10,6 @@ This is a commandline tool to run an ASP.Net web.config tranformation.
 * https://github.com/erichexter/WebConfigTransformRunner
 * http://lostechies.com/erichexter/2013/01/20/asp-net-web-config-transform-console-utility-released-on-nuget/
 	
-### Best way to get this tool?
-Use NuGet and "Install-Package WebConfigTransformRunner" and it'll show up in the Tools folder in your packages. You can also use the NuGet.exe command line and just "nuget install WebConfigTransformRunner."
-
-	Install-Package WebConfigTransformRunner
-
 ### Documentation 
 on the Web.Config Transformation Syntax is located here:
 
